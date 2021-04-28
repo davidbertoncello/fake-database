@@ -1,0 +1,18 @@
+[
+    {
+        "id": 1,
+        "date" : "2021-04-01",
+        "initialKm": 156800,
+        "finalKm": 157030,
+        "deliveredPackages": 87,
+        "finesTotalAmount": 90.30
+    },
+    {
+        "id": 2,
+        "date" : "2021-04-01",
+        "initialKm": 10002,
+        "finalKm": 10151,
+        "deliveredPackages": 136,
+        "finesTotalAmount": 0
+    }
+]
